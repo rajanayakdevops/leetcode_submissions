@@ -7,4 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0228-summary-ranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0228-summary-ranges/) | Easy |
+| [2653-sliding-subarray-beauty](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2653-sliding-subarray-beauty/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2653-sliding-subarray-beauty](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2653-sliding-subarray-beauty/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2653-sliding-subarray-beauty](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2653-sliding-subarray-beauty/) | Medium |
 <!---LeetCode Topics End-->
