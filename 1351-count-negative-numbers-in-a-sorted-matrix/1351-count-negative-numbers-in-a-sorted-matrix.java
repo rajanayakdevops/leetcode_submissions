@@ -16,7 +16,15 @@ class Solution {
 
                 i--;
             }else{
-                j++;
+                for(int col = j+1;col<m;col++){
+                    if(arr[i][col] < 0){
+                        int range = m-col;
+                        count += range;
+                        j = col;
+                        break;
+                    }
+                }
+                i--;
                 
             }
         }
