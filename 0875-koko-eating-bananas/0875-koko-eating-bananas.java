@@ -9,10 +9,10 @@ class Solution {
             if(arr[i]<= mid){
                 hours++;
             }else{
-                hours += (arr[i]+mid-1)/mid;
+                hours += (int)Math.ceil((double)arr[i]/mid);
             }
 
-            // System.out.println(mid +" "+ (i/nt)Math.ceil(arr[i]/mid) + " "+ hours);
+            // System.out.println(mid +" "+ (int)Math.ceil(arr[i]/mid) + " "+ hours);
         }
 
         return hours <= h;
