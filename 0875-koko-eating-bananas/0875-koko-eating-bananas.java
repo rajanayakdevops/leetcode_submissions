@@ -30,7 +30,7 @@ class Solution {
              max = Math.max(max,val);
         }
 
-        int start = 0;
+        int start = min;
         int end = max;
 
         int ans = -1;
