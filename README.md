@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1052-grumpy-bookstore-owner](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -69,4 +71,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0414-third-maximum-number/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 <!---LeetCode Topics End-->
