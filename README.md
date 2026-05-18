@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2653-sliding-subarray-beauty](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2653-sliding-subarray-beauty/) | Medium |
+| [3449-maximize-the-minimum-game-score](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [3449-maximize-the-minimum-game-score](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0414-third-maximum-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3449-maximize-the-minimum-game-score](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 <!---LeetCode Topics End-->
