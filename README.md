@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -74,17 +75,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0414-third-maximum-number/) | Easy |
+| [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0011-container-with-most-water/) | Medium |
+| [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [3449-maximize-the-minimum-game-score](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0011-container-with-most-water/) | Medium |
+| [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
