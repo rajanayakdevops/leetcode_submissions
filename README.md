@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0228-summary-ranges/) | Easy |
 | [0414-third-maximum-number](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0414-third-maximum-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0704-binary-search](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -75,12 +76,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0414-third-maximum-number/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0011-container-with-most-water/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [3449-maximize-the-minimum-game-score](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 ## Two Pointers
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0011-container-with-most-water/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -97,4 +101,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 <!---LeetCode Topics End-->
