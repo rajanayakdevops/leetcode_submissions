@@ -17,11 +17,11 @@ class Solution {
             max = Math.max(max,arr[ch-'A']);
 
             if((right - left + 1) - max > k ){
-                // while((right - left + 1) - max > k){
+                while((right - left + 1) - max > k){
                     char left_char = s.charAt(left);
                     arr[left_char - 'A']--;
                     left++;
-                // }
+                }
             }
 
             int current = right - left + 1;
