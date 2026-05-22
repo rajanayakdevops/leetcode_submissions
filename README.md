@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2653-sliding-subarray-beauty/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2653-sliding-subarray-beauty](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2653-sliding-subarray-beauty/) | Medium |
 ## Binary Search
@@ -66,11 +69,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0367-valid-perfect-square/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
