@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0838-push-dominoes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0838-push-dominoes/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0838-push-dominoes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0838-push-dominoes/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -132,4 +134,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0735-asteroid-collision/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
