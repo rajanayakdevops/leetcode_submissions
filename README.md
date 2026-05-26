@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0035-search-insert-position/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0228-summary-ranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0228-summary-ranges/) | Easy |
 | [0414-third-maximum-number](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0414-third-maximum-number/) | Easy |
@@ -124,11 +125,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0735-asteroid-collision](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0735-asteroid-collision/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
