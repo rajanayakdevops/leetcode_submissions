@@ -28,7 +28,7 @@ class Solution {
         for(int i = n-1;i>=0;i--){
             int current = arr[i];
 
-            while(!st.isEmpty() && current < arr[st.peek()]){
+            while(!st.isEmpty() && current <= arr[st.peek()]){
                 st.pop();
             }
             if(st.isEmpty()){
