@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2653-sliding-subarray-beauty](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2653-sliding-subarray-beauty/) | Medium |
+| [2751-robot-collisions](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2751-robot-collisions/) | Hard |
 | [3449-maximize-the-minimum-game-score](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2751-robot-collisions](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2751-robot-collisions/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0735-asteroid-collision](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0735-asteroid-collision/) | Medium |
+| [2751-robot-collisions](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0735-asteroid-collision/) | Medium |
+| [2751-robot-collisions](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2751-robot-collisions/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
