@@ -11,17 +11,29 @@ class Solution {
     public List<Integer> survivedRobotsHealths(int[] arr, int[] health, String dir) {
         
 
+// One this to not stack only take single input right -> so we cant do like this Stack<Integer,Character> righth 
+// this is completely wrong right ....
     Stack<pair> st = new Stack<>();
-    int n = arr.length;
-// supoose we have sorted right. Writing the logic after that.
 
+    
+    int n = arr.length;
+
+
+// One thing to remember that we cant use Custom Comparitir with Primitive data type - int 
+// therefore we have used Integer -> this is not not Primitive data type right......
+
+
+// this is the logic that we have used to sort all the 3 given input right..............
     Integer[] order = new Integer[n];
     for(int i = 0;i<n;i++){
         order[i] = i;
     }
 
+// remember that we need to sort the position array right........ with that health and direction too right. 
     Arrays.sort(order,(a,b)-> arr[a] - arr[b]);
 
+
+// this is the same logic like the asteoid collision......... 
     for(int j = 0;j<n;j++){
         int i = order[j];
         int current_health = health[i];
