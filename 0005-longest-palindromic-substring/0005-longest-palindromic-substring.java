@@ -1,39 +1,40 @@
 class Solution {
     public String longestPalindrome(String s) {
-         int n = s.length();
-         boolean [][]dp = new boolean[n][n];
-         int []ans = new int[]{0,0};
+        String ans = "";
+        int max = 0;
 
-         for(int i = 0 ;i<n;i++){
-            //single element is always a palindrome 
-            dp[i][i] = true;
-         }
 
-         for(int i = 0;i<n-1;i++){
-            // for two char 
-             if(s.charAt(i) == s.charAt(i+1)){
-                dp[i][i+1] = true;
-                ans[0] = i;
-                ans[1] = i+1;
-             }
-         }
+        for(int i = 0;i<s.length();i++){
+            int left = i;
+            int right = i;
 
-         for(int diff = 2;diff<n;diff++){
-            for( int i = 0; i<n-diff;i++){
-                int j = i+diff;
 
-            if(s.charAt(i) == s.charAt(j) && dp[i+1][j-1] ){
-                dp[i][j] = true;
-                ans[0] = i;
-                ans[1] = j;
+    // this is for odd number right and for this we are both then pointer start from same index right
+
+            while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right) ){
+                if(right - left + 1 > max ){
+                    max = right - left + 1;
+                    ans = s.substring(left,right+1);
+                }
+                left--;
+                right++;
             }
+
+    // this is for even number of string 
+            left = i;
+            right = i+1;
+
+            while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right) ){
+                if(right - left + 1 > max ){
+                    max = right - left + 1;
+                    ans = s.substring(left,right+1);
+                }
+                left--;
+                right++;
             }
-         }
-         int i = ans[0];
-         int j = ans[1];
 
-         return s.substring(i,j+1);
+        }
 
-        
+        return ans;
     }
 }
