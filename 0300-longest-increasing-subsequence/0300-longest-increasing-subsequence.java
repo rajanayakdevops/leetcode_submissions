@@ -1,29 +1,28 @@
 class Solution {
-     
-    private int helper(int[] nums, int index, int prevIndex, int[][] dp) {
-        if (index == nums.length) return 0;
+    public int lengthOfLIS(int[] arr) {
 
-        if(dp[index][prevIndex+1] != -1 )  return dp[index][prevIndex+1];
-        
-        int notTake = helper(nums, index + 1, prevIndex,dp);
-        int take = 0;
-        if (prevIndex == -1 || nums[index] > nums[prevIndex]) {
-            take = 1 + helper(nums, index + 1, index,dp);
-        }
-        
-        return dp[index][prevIndex+1] = Math.max(take, notTake);
-    }
+    int n = arr.length;
+    
+    int[] dp = new int[n];
 
-    public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
-        int[][] dp = new int[n][n + 1];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j <= n; j++) {
-                dp[i][j] = -1;
+    Arrays.fill(dp,1);
+
+
+    for(int i = 0;i<n;i++){
+        for(int j = 0;j<i;j++){
+            if(arr[i] > arr[j] && dp[j]+1 > dp[i]){
+                dp[i] = dp[j]+1;
             }
         }
-        return helper(nums, 0, -1, dp);
     }
-   
-    
+
+    int ans = -1;
+
+    for(int val : dp){
+        if(val > ans) ans = val;
+    }
+
+    return ans;
+        
+    }
 }
