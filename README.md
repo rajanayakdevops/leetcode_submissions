@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0039-combination-sum/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajanayakdevops/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -197,4 +198,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
