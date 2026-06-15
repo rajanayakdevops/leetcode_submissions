@@ -1,37 +1,31 @@
 class Solution {
 
-    List<List<Integer>> result;
+    List<List<Integer>> ans;
 
-    public void fun(int index, List<Integer> ans , int[] nums){
-        // if(index == nums.length){
-        //     return;
-        // }
-
-        if(ans.size() == nums.length){ 
-            result.add(new ArrayList<>(ans));
+    public void fun(int index,int[] arr, ArrayList<Integer> curr ){
+        if(curr.size() == arr.length){
+            ans.add(new ArrayList<>(curr));
             return;
-            }
-
-        for(int i = 0;i<nums.length;i++){
-            if(ans.contains(nums[i])) continue;
-
-            ans.add(nums[i]);
-            fun(index+1,ans,nums);
-            ans.remove(ans.size()-1);
-
         }
+
+        for(int i = 0;i<arr.length;i++){
+            if(curr.contains(arr[i])) continue;
+
+            curr.add(arr[i]);
+            fun(index+1,arr,curr);
+            curr.remove(curr.size()-1);
+        }
+
     }
 
     public List<List<Integer>> permute(int[] nums) {
         
+    ans = new ArrayList<>();
 
-        result = new ArrayList<>();
+    ArrayList<Integer> curr = new ArrayList<>();
+    fun(0,nums,curr);
 
-        List<Integer> ans = new ArrayList<>();
-        fun(0,ans, nums);
+    return ans;
 
-        return result;
-
-        
     }
 }
