@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0206-reverse-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Indexed Tree
@@ -204,4 +205,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0046-permutations/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
