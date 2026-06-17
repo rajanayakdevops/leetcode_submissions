@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0838-push-dominoes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0838-push-dominoes/) | Medium |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0046-permutations/) | Medium |
 | [0113-path-sum-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0113-path-sum-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0437-path-sum-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0437-path-sum-iii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -254,5 +258,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0437-path-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
