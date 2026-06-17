@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0437-path-sum-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0437-path-sum-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0437-path-sum-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0437-path-sum-iii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,4 +251,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0113-path-sum-ii/) | Medium |
+| [0437-path-sum-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0437-path-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
