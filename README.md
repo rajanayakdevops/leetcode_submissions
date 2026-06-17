@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0437-path-sum-iii/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0112-path-sum/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0437-path-sum-iii/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,4 +267,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0437-path-sum-iii/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
