@@ -29,22 +29,22 @@ class Solution {
         while(!q.isEmpty()){
             int n = q.size();
 
-            List<Integer> curr = new LinkedList<>();
+            Deque<Integer> curr = new LinkedList<>();
 
             for(int i = 0;i<n;i++){
                 TreeNode node = q.poll();
 
                 if(flag){
-                    curr.add(node.val);    
+                    curr.addLast(node.val);    
                 }else{
-                    curr.add(0,node.val);
+                    curr.addFirst(node.val);
                 }
 
                 if(node.left != null ) q.offer(node.left);
                 if(node.right != null ) q.offer(node.right);
             }
 
-            ans.add(curr);
+            ans.add(new ArrayList<>(curr));
             flag = !flag;
 
 
