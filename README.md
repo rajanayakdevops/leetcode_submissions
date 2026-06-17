@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/rajanayakdevops/leetcode_submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
