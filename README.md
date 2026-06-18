@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0051-n-queens/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajanayakdevops/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0051-n-queens/) | Hard |
 | [0113-path-sum-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Linked List
