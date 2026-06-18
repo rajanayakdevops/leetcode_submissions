@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0051-n-queens/) | Hard |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0498-diagonal-traverse](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0498-diagonal-traverse/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1901-find-a-peak-element-ii/) | Medium |
