@@ -22,10 +22,10 @@ class Solution {
 
         };
 
-        ans.add(node.val);
         print(node.left,ans);
 
         print(node.right,ans);
+        ans.add(node.val);
 
     }
 
