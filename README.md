@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0951-flip-equivalent-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0951-flip-equivalent-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0951-flip-equivalent-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
