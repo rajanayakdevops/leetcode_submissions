@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0951-flip-equivalent-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0951-flip-equivalent-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0951-flip-equivalent-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
