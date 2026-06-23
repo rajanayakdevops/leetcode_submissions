@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0206-reverse-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0707-design-linked-list/) | Medium |
