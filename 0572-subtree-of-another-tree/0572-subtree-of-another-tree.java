@@ -64,8 +64,6 @@ class Solution {
         checkserialize(node.left,ans);
         checkserialize(node.right,ans);
 
-
-
     }
     
     public String serialize(TreeNode node) {
