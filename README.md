@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2653-sliding-subarray-beauty/) | Medium |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Breadth-First Search
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Depth-First Search
@@ -318,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Divide and Conquer
