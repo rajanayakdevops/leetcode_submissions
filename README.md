@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
