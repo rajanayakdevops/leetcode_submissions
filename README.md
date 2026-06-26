@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0994-rotting-oranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0498-diagonal-traverse](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0498-diagonal-traverse/) | Medium |
+| [0994-rotting-oranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Sorting
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0994-rotting-oranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
