@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0148-sort-list/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0414-third-maximum-number](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0414-third-maximum-number/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0011-container-with-most-water/) | Medium |
+| [0148-sort-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0838-push-dominoes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0838-push-dominoes/) | Medium |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0148-sort-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0707-design-linked-list/) | Medium |
@@ -347,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0148-sort-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0148-sort-list/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,4 +376,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0547-number-of-provinces/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
