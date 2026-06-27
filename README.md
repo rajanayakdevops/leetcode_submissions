@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0994-rotting-oranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/rajanayakdevops/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Sorting
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -347,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0733-flood-fill/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
+| [1020-number-of-enclaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -381,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
