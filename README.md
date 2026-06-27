@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajanayakdevops/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0130-surrounded-regions](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0130-surrounded-regions/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0228-summary-ranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0228-summary-ranges/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0036-valid-sudoku/) | Medium |
+| [0130-surrounded-regions](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0130-surrounded-regions/) | Medium |
 | [0498-diagonal-traverse](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0542-01-matrix](https://github.com/rajanayakdevops/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0733-flood-fill/) | Easy |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0130-surrounded-regions/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0130-surrounded-regions](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0130-surrounded-regions/) | Medium |
 | [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0437-path-sum-iii/) | Medium |
@@ -375,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
