@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0707-design-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0207-course-schedule/) | Medium |
 | [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0437-path-sum-iii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -408,4 +410,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0207-course-schedule/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
