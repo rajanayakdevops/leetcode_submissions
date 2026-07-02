@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0994-rotting-oranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0994-rotting-oranges/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1020-number-of-enclaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
@@ -196,12 +197,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0735-asteroid-collision](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0735-asteroid-collision/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0707-design-linked-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
