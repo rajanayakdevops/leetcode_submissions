@@ -1,6 +1,15 @@
 class Solution {
     public boolean canFinish(int n, int[][] arr) {
 
+        // this is one of the main takeaway from khans algo -> The count tells us how many vertices Kahn's algorithm successfully removed.
+
+// count == n → Every node was removed → No cycle → All courses can be finished ✅
+
+// Remember that this can be asked in future rigth....... 
+// count < n → Some nodes could not be removed → Those nodes are trapped in a cycle → Not all courses can be finished ❌
+
+// So the count variable is simply a proof that the topological sort was complete. That's why this single line
+
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
         for(int i = 0;i<n;i++){
