@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0733-flood-fill](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0994-rotting-oranges/) | Medium |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0733-flood-fill](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1020-number-of-enclaves](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1020-number-of-enclaves/) | Medium |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
