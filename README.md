@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0735-asteroid-collision/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0819-most-common-word](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0819-most-common-word/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0127-word-ladder/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0819-most-common-word](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0819-most-common-word/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0819-most-common-word](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0819-most-common-word/) | Easy |
 | [0838-push-dominoes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0838-push-dominoes/) | Medium |
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -432,4 +435,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0819-most-common-word](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0819-most-common-word/) | Easy |
 <!---LeetCode Topics End-->
