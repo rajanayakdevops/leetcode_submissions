@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/rajanayakdevops/leetcode_submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0414-third-maximum-number](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0498-diagonal-traverse](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/rajanayakdevops/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0127-word-ladder/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0148-sort-list/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0414-third-maximum-number](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/rajanayakdevops/leetcode_submissions/tree/main/1048-longest-string-chain/) | Medium |
